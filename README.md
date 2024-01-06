@@ -3,7 +3,7 @@
 
 IT Engineering student at [Polimi](https://polimi.it), he/him, likes to automate things. 
 
-[Visit my website](https://frephs.github.io/frephs)
+[Visit my website](https://frephs.github.io/)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frephs&layout=compact)
 <a href="mailto:francesccogenovese@duck.com">![francescogenovese@duck.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
