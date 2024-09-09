@@ -1,7 +1,7 @@
 ### Hi there! <img src="wave.gif" height="25px"> 
 
 
-IT Engineering student at [Polimi](https://polimi.it), he/him, likes to automate things. 
+IT Engineering student at [Polimi](https://polimi.it), he/him, likes to automate things, passionate about computer science, maths, formalisms. 
 
 [Visit my website](https://frephs.github.io/)
 
