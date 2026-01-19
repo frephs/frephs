@@ -1,12 +1,17 @@
+
+## Francesco Genovese *he/him*.
 ### Hi there! <img src="wave.gif" height="25px"> 
 
-
-Computer Science and Engineering student at [Polimi](https://polimi.it), he/him, likes to automate things, passionate about computer science, maths, formalisms. 
+I'm a Computer Science and Engineering student at Politecnico di Milano, passionate about building software to solve complex problems. With experience in full-stack development, I love creating tools that make a difference.
 
 [Visit my website](https://frephs.github.io/)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=frephs.frephs) 
 ![GitHub User's Stars](https://img.shields.io/github/stars/frephs)
+
+
+
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frephs&layout=compact)
 <a href="mailto:francesccogenovese@duck.com">![francescogenovese@duck.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
